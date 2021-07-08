@@ -2,6 +2,6 @@
   "name": "cdn-cxl2020mc",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://www.gravatar.com/$1"}
+    {"src": "/(.*)","dest": "http://cxl2020mc.unaux.com/$1"}
   ]
 }
